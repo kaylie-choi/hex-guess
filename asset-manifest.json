@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/hex-guess/static/css/main.d7c924b8.css",
-    "main.js": "/hex-guess/static/js/main.bc2bf271.js",
+    "main.js": "/hex-guess/static/js/main.dd234d89.js",
     "static/js/787.11e139bb.chunk.js": "/hex-guess/static/js/787.11e139bb.chunk.js",
     "index.html": "/hex-guess/index.html",
     "main.d7c924b8.css.map": "/hex-guess/static/css/main.d7c924b8.css.map",
-    "main.bc2bf271.js.map": "/hex-guess/static/js/main.bc2bf271.js.map",
+    "main.dd234d89.js.map": "/hex-guess/static/js/main.dd234d89.js.map",
     "787.11e139bb.chunk.js.map": "/hex-guess/static/js/787.11e139bb.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.d7c924b8.css",
-    "static/js/main.bc2bf271.js"
+    "static/js/main.dd234d89.js"
   ]
 }
